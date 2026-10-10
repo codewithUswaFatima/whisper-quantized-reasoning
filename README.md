@@ -5,7 +5,7 @@
 A pipeline that takes **spoken audio**, transcribes it with **OpenAI Whisper**, and passes the text to an **Unsloth dynamic 4-bit reasoning model (Qwen3-4B)**, which thinks step by step and returns an answer. Everything runs in one Google Colab notebook on a free **Tesla T4** GPU.
 
 > Internship project for ArchTechnologies  
-> Author: **[Your Full Name]** | Domain: **[Your Internship Domain]** | Email: **[your.email@example.com]**  
+> Author: **Uswa Fatima** | Domain: **Arch Technologies** | Email: **uswaf357@gmail.com**  
 > GitHub: [@codewithUswaFatima](https://github.com/codewithUswaFatima)
 
 ---
