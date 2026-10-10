@@ -176,6 +176,6 @@ The highest peak was **5.62 GB of 14.56 GB (38.6 percent of the T4)**. `nvidia-s
 
 ## Links
 
-- Colab notebook: [Whisper_Quantized_Reasoning.ipynb](https://colab.research.google.com/github/codewithUswaFatima/whisper-quantized-reasoning/blob/main/Whisper_Quantized_Reasoning.ipynb)
-- GitHub: https://github.com/codewithUswaFatima/task4_whisper-quantized-reasoning
+- Colab notebook: [Task4_Whisper_Quantized_Reasoning.ipynb](https://colab.research.google.com/github/codewithUswaFatima/whisper-quantized-reasoning/blob/main/Whisper_Quantized_Reasoning.ipynb)
+- GitHub: https://github.com/codewithUswaFatima/whisper-quantized-reasoning
 - LinkedIn post: **[paste link]**
